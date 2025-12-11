@@ -1,4 +1,4 @@
-package EjerciciosParte1;
+package boletin1;
 
 import java.io.Closeable;
 import java.util.Random;
