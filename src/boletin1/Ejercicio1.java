@@ -1,6 +1,4 @@
 package boletin1;
-
-import java.io.Closeable;
 import java.util.Random;
 
 public class Ejercicio1 {

@@ -27,6 +27,9 @@ for (int i = 0; i < meses.length; i++) {
 	   }
    System.out.println(temperaturas[i] + " ºC");
    }
+
+sc.close();
+
 }
 	}
 

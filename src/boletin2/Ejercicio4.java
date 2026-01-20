@@ -1,15 +1,13 @@
 package boletin2;
-
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
-
 public class Ejercicio4 {
 
+	
 	public static void main(String[] args) {
 		
 		int[] puntuaciones = new int[8];
-		
+
 		Scanner sc = new Scanner(System.in);
 
         for (int i = 0; i < puntuaciones.length; i++) {
@@ -33,6 +31,7 @@ public class Ejercicio4 {
             System.out.println(puntuaciones[i]);
         }
 
-        sc.close();
+       sc.close();
+       
     }
 }
