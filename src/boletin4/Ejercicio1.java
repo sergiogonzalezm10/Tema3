@@ -1,7 +1,5 @@
 package boletin4;
 public class Ejercicio1 {
-
-
     public static int sumarTabla(int[] tabla) {
         int suma = 0;
         for (int i = 0; i < tabla.length; i++) {
